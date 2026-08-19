@@ -75,6 +75,8 @@ Multi-Utility-Toolkit/
 ├── LICENSE                     # MIT License file
 └── README.md                   # Project documentation
 ```
+<img width="1280" height="853" alt="WhatsApp Image 2026-08-19 at 5 28 40 PM" src="https://github.com/user-attachments/assets/24abd634-8418-4e87-b5cf-a849be1780cb" />
+
 
 ---
 
