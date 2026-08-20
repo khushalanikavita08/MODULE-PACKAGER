@@ -108,11 +108,12 @@ python main.py
 ---
 
 ## 🖥️ Sample Output
+<img width="1024" height="1536" alt="Copilot_20260820_080905" src="https://github.com/user-attachments/assets/d6ffa952-d5cb-4d45-b609-37f4ea0596a1" />
 
 
 #**video link**
 
-[watch video here] (https://drive.google.com/file/d/1gY6DwG63SHQPckETUzmMhnBFKxziC2XP/view?usp=sharing)
+[watch video here](https://drive.google.com/file/d/1gY6DwG63SHQPckETUzmMhnBFKxziC2XP/view?usp=sharing)
 
 ---
 
